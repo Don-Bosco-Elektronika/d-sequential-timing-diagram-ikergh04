@@ -13,7 +13,24 @@
 **Ariketa (EU): (ZENBAKIA IDATZI)**  
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| ? | ?             | ? | ? |  
+| D | 74100             | ? | ? |  
+
+| Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
+|---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
+| D | 74175             | ? | ? |  
+
+| Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
+|---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
+| D | 7476             | ? | ? |  
+
+| Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
+|---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
+| D | 4027             | ? | ? |  
+
+| Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
+|---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
+| D | 74164             | ? | ? |  
+
 
 
 ## Tabla de la verdad
@@ -34,29 +51,116 @@
 ---
 
 ## 🔲Kronogramaren Emaitza
-Circuito A
+<img width="604" height="122" alt="Captura de pantalla 2026-01-20 124252" src="https://github.com/user-attachments/assets/79b4c271-da1a-4623-ac08-f2efbc43ee4f" />
+<img width="821" height="282" alt="Captura de pantalla 2026-01-20 114721" src="https://github.com/user-attachments/assets/7d7e67a5-4fc3-40e5-8dd1-a46c310c91ee" />
+<img width="821" height="282" alt="Captura de pantalla 2026-01-20 114721" src="https://github.com/user-attachments/assets/7da65642-f422-4a89-b327-767353605929" />
+<img width="750" height="180" alt="Captura de pantalla 2026-01-20 120120" src="https://github.com/user-attachments/assets/164b8ee6-3adb-45a5-9d6a-5409e703863f" />
+<img width="920" height="190" alt="Captura de pantalla 2026-01-20 120423" src="https://github.com/user-attachments/assets/fa2eaffb-d37d-4703-83bc-85cda41d303f" />
 
-*(Añade aquí la captura del WaveDrom)*
 
-Circuito B
 
-*(Añade aquí la captura del WaveDrom)*
 
-... AÑADE LO MÁS CIRCUITOS
+
 
 ---
 
 
 ## 🔲Kronogramaren Kodea
-Circuito A
+Ejercicio 2: D asíncrono
 
-*(Añade aquí el código del WaveDrom)*
+{signal: [
 
-Circuito B
+  {name: 'D', wave: 'h.lh.lh.lhl.hl..h'},
+ 
+  {},
+  
+  {name: 'Q', wave: '1.01.01.010.10..1'},
+  
+  {name: '-Q', wave: '0.10.10.101.01..0'}
 
-*(Añade aquí el código del WaveDrom)*
+]}
 
-... AÑADE LO MÁS CIRCUITOS
+Ejercicio 2: D flanco ascendente
+
+{signal: [
+
+  {name: 'clk', wave: 'P.....',period: 3},
+ 
+  {name: 'D', wave: '10101..0.10.101010'},
+  
+  {},
+ 
+  {name: 'Q', wave: '1..0.1'},
+  
+  {name: '-Q', wave: '0..1.0'},
+
+]}
+
+Ejercicio 2: D flanco descendente
+
+{signal: [
+
+  {name: 'clk', wave: 'N.....',period: 3},
+  
+  {name: 'D', wave: '0101..0101.0..1010'},
+ 
+  {},
+  
+  {name: 'Q', wave: '0.10.1'},
+  
+  {name: '-Q', wave: '1.01.0'}
+
+]}
+
+Ejercicio 2: D nivel alto
+
+{signal: [
+
+  {name: 'clk', wave: 'p.......', period: 2},
+  
+  {name: 'D',   wave: '01010101'},
+  
+  {},
+  
+  {name: 'Q',   wave: '0.1.0.1.'},
+  
+  {name: '-Q',  wave: '1.0.1.0.'}
+
+]}
+
+Ejercicio 2: D nivel alto
+
+{signal: [
+
+  {name: 'clk', wave: 'p.......', period: 2},
+  
+  {name: 'D',   wave: '01010101'},
+  
+  {},
+  
+  {name: 'Q',   wave: '0.1.0.1.'},
+  
+  {name: '-Q',  wave: '1.0.1.0.'}
+
+]}
+
+Ejercicio 2: D nivel bajo
+
+{signal: [
+
+  {name: 'clk', wave: 'n....', period: 4},
+  
+  {name: 'D',   wave: '0101..0101.01010.1'},
+  
+  {},
+  
+  {name: 'Q',   wave: '0...1...0...1...0.'},
+  
+  {name: '-Q',  wave: '1...0...1...0...1.'}
+
+]}
+
+
 
 ---
 
