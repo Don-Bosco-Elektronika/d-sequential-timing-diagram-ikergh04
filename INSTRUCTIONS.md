@@ -45,8 +45,11 @@
 ---
 
 ## 🔲Simulatzeko Zirkuituak
+<img width="487" height="218" alt="Captura de pantalla 2026-01-20 132727" src="https://github.com/user-attachments/assets/c2926a59-8a68-4e63-8c30-b8386bd85979" />
+<img width="547" height="283" alt="image" src="https://github.com/user-attachments/assets/c3199e8e-5298-4ec8-8852-d779a6955c81" />
 
-*(Añade aquí la captura de proteus)*
+
+
 
 ---
 
