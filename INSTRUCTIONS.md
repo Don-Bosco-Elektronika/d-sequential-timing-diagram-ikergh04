@@ -13,23 +13,24 @@
 **Ariketa (EU): (ZENBAKIA IDATZI)**  
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| D | 74100             | ? | ? |  
+| D | 74100             | ? | TTL memoria/flip-flop zirkuitua. Datu digitalak gordetzeko erabiltzen da. |  
 
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| D | 74175             | ? | ? |  
+| D | 74175             | ? | 4 D flip-flop dituen erregistroa. CLK bidez kargatu eta RESET dauka. |  
 
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| D | 7476             | ? | ? |  
+| D |74595            | ? | 8 bit desplazamendu-erregistroa latch-ekin. Irteerak gordeta mantentzen ditu.
+ |  
 
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| D | 4027             | ? | ? |  
+| D | 74165             | ? | 8 bit desplazamendu-erregistroa (paralelo → serie). 8 sarrera irakurri eta seriean ateratzen du. |  
 
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| D | 74164             | ? | ? |  
+| D | 74164             | ? | 8 bit desplazamendu-erregistroa (serie → paralelo). Bitak CLK-rekin mugitzen dira. |  
 
 
 
