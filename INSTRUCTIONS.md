@@ -46,8 +46,6 @@
 
 ## 🔲Simulatzeko Zirkuituak
 <img width="487" height="218" alt="Captura de pantalla 2026-01-20 132727" src="https://github.com/user-attachments/assets/c2926a59-8a68-4e63-8c30-b8386bd85979" />
-<img width="547" height="283" alt="image" src="https://github.com/user-attachments/assets/c3199e8e-5298-4ec8-8852-d779a6955c81" />
-<img width="433" height="345" alt="Captura de pantalla 2026-01-20 205712" src="https://github.com/user-attachments/assets/420c0733-e33b-4c61-b114-b12db06c098c" />
 <img width="468" height="359" alt="Captura de pantalla 2026-01-20 205731" src="https://github.com/user-attachments/assets/2d9b0d4f-fd91-48b8-8a5a-0e4e6d09042f" />
 <img width="520" height="332" alt="Captura de pantalla 2026-01-20 205742" src="https://github.com/user-attachments/assets/5b615876-184e-4b65-aa9b-bf1b0dca281d" />
 
