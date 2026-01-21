@@ -17,8 +17,7 @@
 
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| D | 74175             |  <img width="83" height="76" alt="Captura de pantalla 2026-01-21 135732" src="https://github.com/user-attachments/assets/249327d0-04a9-4f18-8553-ac6df521ed29" />
-| 4 D flip-flop dituen erregistroa. CLK bidez kargatu eta RESET dauka. |  
+|D|74175| <img width="83" height="76" alt="Captura de pantalla 2026-01-21 135732" src="https://github.com/user-attachments/assets/249327d0-04a9-4f18-8553-ac6df521ed29" />| 4 D flip-flop dituen erregistroa. CLK bidez kargatu eta RESET dauka. |  
 
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
