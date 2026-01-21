@@ -21,8 +21,7 @@
 
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| D |74595            | ? | 8 bit desplazamendu-erregistroa latch-ekin. Irteerak gordeta mantentzen ditu.
- |  
+| D |74595            | ? | 8 bit desplazamendu-erregistroa latch-ekin. Irteerak gordeta mantentzen ditu.|  
 
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
