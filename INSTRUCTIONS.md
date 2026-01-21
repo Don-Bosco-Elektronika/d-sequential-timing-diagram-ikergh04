@@ -13,11 +13,13 @@
 **Ariketa (EU): (ZENBAKIA IDATZI)**  
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| D | 74100             | ? | TTL memoria/flip-flop zirkuitua. Datu digitalak gordetzeko erabiltzen da. |  
+| D | 74100             | <img width="118" height="69" alt="Captura de pantalla 2026-01-21 135853" src="https://github.com/user-attachments/assets/3b710569-fc76-4746-94fc-70d4a6636310" />
+| TTL memoria/flip-flop zirkuitua. Datu digitalak gordetzeko erabiltzen da. |  
 
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| D | 74175             | ? | 4 D flip-flop dituen erregistroa. CLK bidez kargatu eta RESET dauka. |  
+| D | 74175             |  <img width="83" height="76" alt="Captura de pantalla 2026-01-21 135732" src="https://github.com/user-attachments/assets/249327d0-04a9-4f18-8553-ac6df521ed29" />
+| 4 D flip-flop dituen erregistroa. CLK bidez kargatu eta RESET dauka. |  
 
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
